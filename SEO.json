@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "truck-transport-company-software",
+  "description": "Truck Transport Company Software — Logistics Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Truck transport for LR/challans, hire vehicles, freight billing, and trip settlements. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "logistics",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/truck-transport-company-software"
+}
